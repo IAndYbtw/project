@@ -1,0 +1,12 @@
+sqlalchemy
+fastapi[standard]
+python-dotenv
+asyncpg
+pyjwt
+passlib[bcrypt]
+pydantic[email]
+greenlet
+uvicorn
+transliterate
+prometheus_client
+redis>=5.0.1
